@@ -34,55 +34,56 @@
   
   <div align="left">
     <table border="0">
-      <tr>
-        <td>
-          <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="16" />
-        </td>
-        <td><b>Position:</b></td>
-        <td>CEO at LegionCode IT Solutions</td>
-      </tr>
-      <tr>
-  <td>
-    <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a70-9292-8d7c235e8f6e.png" width="16" />
-  </td>
-  <td><b>Portfolio:</b></td>
-  <td><a href="https://janith-nanayakkara-ten.vercel.app/" target="_blank">janith-nanayakkara.vercel.app</a></td>
-</tr>
-<tr>
-  <td>
-    <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="16" />
-  </td>
-  <td><b>Alt Email:</b></td>
-  <td>
-    <a href="mailto:janithnanayakkara0202@gmail.com">
-      <img src="https://img.shields.io/badge/📧_janithnanayakkara0202@gmail.com-00FFFF?style=flat&logo=gmail" alt="Personal Email" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <img src="https://user-images.githubusercontent.com/74038190/225288621-0a794a60-069f-4f6e-80a8-6a3531a9b4d3.png" width="16" />
-  </td>
-  <td><b>Phone:</b></td>
-  <td>
-    <a href="tel:+94765739535">+94 76 573 9535</a>
-    <img src="https://img.shields.io/badge/-Sri_Lanka-00FFFF?style=flat" alt="Sri Lanka" />
-  </td>
-</tr>
-        <td>
-          <img src="https://user-images.githubusercontent.com/74038190/216121986-347a3a9e-77d2-4e88-9e60-e982c24d0fb0.png" width="16" />
-        </td>
-        <td><b>Expertise:</b></td>
-        <td>MERN Stack, Java Baesd</td>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-567a-44ec-933f-cb41e95559b9.png" width="16" />
-        </td>
-        <td><b>Interests:</b></td>
-        <td>AI Integration, Blockchain, UX Research</td>
-      </tr>
-    </table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user-tie.svg" width="16" alt="Position" />
+    </td>
+    <td><b>Position:</b></td>
+    <td>CEO at LegionCode IT Solutions</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="16" alt="Portfolio" />
+    </td>
+    <td><b>Portfolio:</b></td>
+    <td><a href="https://janith-nanayakkara-ten.vercel.app/" target="_blank">janith-nanayakkara.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="16" alt="Email" />
+    </td>
+    <td><b>Alt Email:</b></td>
+    <td>
+      <a href="mailto:janithnanayakkara0202@gmail.com">
+        <img src="https://img.shields.io/badge/📧_janithnanayakkara0202@gmail.com-00FFFF?style=flat&logo=gmail" alt="Personal Email" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/phone.svg" width="16" alt="Phone" />
+    </td>
+    <td><b>Phone:</b></td>
+    <td>
+      <a href="tel:+94765739535">+94 76 573 9535</a>
+      <img src="https://img.shields.io/badge/-Sri_Lanka-00FFFF?style=flat" alt="Sri Lanka" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="16" alt="Expertise" />
+    </td>
+    <td><b>Expertise:</b></td>
+    <td>MERN Stack, Java Based</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/heart.svg" width="16" alt="Interests" />
+    </td>
+    <td><b>Interests:</b></td>
+    <td>AI Integration, Blockchain, UX Research</td>
+  </tr>
+</table>
   </div>
 </div>
 
